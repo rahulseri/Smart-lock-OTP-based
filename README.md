@@ -1,2 +1,2 @@
 # Smart-lock-OTP-based
-Schematic, PCB design and BOM list
+In this project, I am designing a PCB for a Smart Lock system that operates using OTP (One-Time Password) authentication. The design is being developed using Altium Designer, which allows for efficient circuit layout and simulation. The smart lock system will incorporate various components such as a microcontroller for OTP generation and verification, a keypad  interface for input, a secure communication module (e.g. Wi-Fi), and a locking mechanism. The PCB design will ensure optimal layout for signal integrity, power management, and component placement, adhering to best practices for reliability and security.
